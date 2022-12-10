@@ -17,8 +17,8 @@ int first_sub(char *str, char *sub, int index){
 		return index;
     return first_sub(str + 1, sub, ++index);
     
-  } else
-	  return -1;
+	} else
+		return -1;
 }
 
 int last_sub(char *str, char *sub, int index){
