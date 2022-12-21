@@ -1,9 +1,8 @@
 #include <stdio.h>
 
-typedef long Item;
+typedef int Item;
 
-#define key(a) (a)
-#define less(a, b) (key(a) < key(b))
+#define less(a, b) (a < b)
 #define exch(a, b) {Item t = a; a = b; b = t;}
 
 void selectionsort(Item *v, int l, int r) {
@@ -18,12 +17,13 @@ void selectionsort(Item *v, int l, int r) {
 }
 
 int main() {
-	Item lst[1001], n = 0;
-	while (scanf("%ld", &lst[n]) != EOF)
+	Item lst[1000], n = 0;
+	while (scanf("%d", &lst[n]) != EOF)
 		n++;
 	selectionsort(lst, 0, n-1);
-	for (int i = 0; i < n; i++)
-		printf("%ld ", lst[i]);
+	printf("%d", lst[0]);
+	for (int i = 1; i < n; i++)
+		printf(" %d", lst[i]);
 	printf("\n");
 	return 0;
 }
