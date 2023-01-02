@@ -19,6 +19,7 @@ void merge(int *v, int l, int m, int r) {
 	k = 0;
 	for (int i = l; i <= r; i++)
 		v[i] = v2[k++];
+	free(v2);
 }
 
 void mergesort(int *v, int l, int r) {
