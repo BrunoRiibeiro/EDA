@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #define lesseq(a, b) (a <= b)
-#define exch(a, b) {int t = a; a = b; b = t;}
 
 void merge(int *v, int l, int m, int r) {
 	int *v2 = malloc(sizeof(int) * (r - l + 1));
