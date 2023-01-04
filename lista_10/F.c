@@ -84,6 +84,7 @@ int main() {
 			j--;
 	}
 	int *fx = merge2(x, 0, r, nmu, 0, j);
+	free(nmu);
 	for (int i = 0; i <= r+j+1; i += 4)
 		printf("%d\n", fx[i]);
 	printf("Elementos: %d\n", r+j+2);
