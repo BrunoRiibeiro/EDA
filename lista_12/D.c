@@ -32,7 +32,7 @@ int is_empty(Stack *p) {
 	return p->top == 0;
 }
 
-int bem_formada(char *v) {
+int symmetric_string(char *v) {
 	int i = 0;
 	while (v[i] != '\0')
 		i++;
@@ -75,7 +75,7 @@ int main() {
 	scanf("%d",&t);
 	for (int i = 0; i < t; i++) {
 		scanf("%s", s);
-		printf("%c\n", bem_formada(s) == 1 ? 'S' : 'N');
+		printf("%c\n", symmetric_string(s) == 1 ? 'S' : 'N');
 	}
 	return 0;
 }
