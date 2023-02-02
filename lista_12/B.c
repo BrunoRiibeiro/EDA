@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 typedef struct Item {
-    int left;
-    int right;
+	int left;
+	int right;
 }Item;
 
 int main() {
@@ -19,9 +19,9 @@ int main() {
 			char side;
 			scanf("%d %c", &size, &side);
 			if (side == 'E')
-				boot[size - 30].left++;
+				boot[size-30].left++;
 			else
-				boot[size - 30].right++;
+				boot[size-30].right++;
 		}
 		for (int i = 0; i < 31; i++) {
 			if (boot[i].left == 0 || boot[i].right == 0) continue;
