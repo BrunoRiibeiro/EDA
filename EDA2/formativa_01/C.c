@@ -8,9 +8,8 @@ typedef struct Node {
 int remove_depois(Node *n) {
 	Node *toremove = n->next;
 	if (toremove) {
-		n->next = n->next->next; return 1;
-	} else
-		return 0;
+		n->next = n->next->next; return toremove->data;
+	} else return 0;
 }
 
 void remove_elemento(Node *h, int x) {
