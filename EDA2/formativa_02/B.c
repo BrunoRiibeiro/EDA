@@ -2,9 +2,9 @@
 #include <stdlib.h>
 
 int main() {
-	char c, *m = malloc(sizeof(char) * (unsigned long) 1<<31);
-	unsigned long s, from = (unsigned long) 1<<31;
-	while (scanf("%lu %c", &s, &c) != EOF) {
+	char c, *m = malloc(sizeof(char) * (unsigned int) 1<<31);
+	unsigned int s, from = (unsigned int) 1<<31;
+	while (scanf("%u %c", &s, &c) != EOF) {
 		m[s] = c;
 		if (s < from)
 			from = s;
