@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <string.h>
 
-typedef struct{
-  char str[16];
+typedef struct Item {
+	char str[16];
 }Item;
 
 unsigned int hash(char *s) {
