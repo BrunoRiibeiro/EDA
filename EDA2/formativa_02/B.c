@@ -10,6 +10,6 @@ int main() {
 			from = s;
 	} while (m[from])
 		printf("%c", m[from++]);
-	printf("\n");
+	printf("\n"); free(m);
 	return 0;
 }
