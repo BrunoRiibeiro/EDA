@@ -41,6 +41,6 @@ int main() {
 			printf("nao\n");
 		else
 			printf("sim\n");
-	}
+	} free(p);
 	return 0;
 }
