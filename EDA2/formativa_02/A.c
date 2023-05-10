@@ -13,7 +13,6 @@ int main() {
 			acc = grades[i];
 			numb = i;
 		}
-	printf("%hu\n", numb);
-	free(grades);
+	printf("%hu\n", numb); free(grades);
 	return 0;
 }
