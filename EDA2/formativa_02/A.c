@@ -14,5 +14,6 @@ int main() {
 			numb = i;
 		}
 	printf("%hu\n", numb);
+	free(grades);
 	return 0;
 }
