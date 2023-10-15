@@ -1,6 +1,8 @@
 # EDA - moj
 
-Materia destinado à resolução das questões de EDA (Estrutura de Dados I e II) no CDMOJ
+Material destinado à resolução das questões de EDA (Estrutura de Dados I e II) no CDMOJ. Existem mesmas questões com resoluções diferentes.
+
+**NOTA**: lembre-se este material tem intuito educativo, todas as questões apresentadas nesse repositório já foram submetidas ao CDMOJ, portanto caso as submetas novamente estará correndo risco de ter seu contest anulado por plágio.
 
 - [Ada and Queue](EDA1/trabalho/12pontos.c) - [pdf](EDA1/trabalho/12pontos.pdf)
 - [Ajude Aparecido](EDA1/lista_02/A.c) - [pdf](EDA1/lista_01/A.pdf)
@@ -71,3 +73,5 @@ Materia destinado à resolução das questões de EDA (Estrutura de Dados I e II
 - [Ultrapassa Minimamente](EDA1/lista_05/E.c) - [pdf](EDA1/lista_05/E.pdf)
 - [Viagem com bons restaurantes](EDA1/lista_01/D3.c) - [pdf](EDA1/lista_01/D3.pdf)
 - [Vivo ou Morto](EDA1/lista_12/C.c) - [pdf](EDA1/lista_12/C.pdf)
+
+*Created by Bruno*
