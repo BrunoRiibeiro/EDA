@@ -7,8 +7,8 @@ Material de estudo indicado: [Apostila de Estrutura de Dados e Algoritmos](https
 **NOTA**: lembre-se este material tem intuito educativo, todas as questões apresentadas nesse repositório já foram submetidas ao CDMOJ, portanto caso as submetas novamente estará correndo risco de ter seu contest anulado por plágio.
 
 - [Ada and Queue](EDA1/trabalho/12pontos.c) - [pdf](EDA1/trabalho/12pontos.pdf)
-- [Ajude Aparecido](EDA1/lista_02/A.c) - [pdf](EDA1/lista_01/A.pdf)
-- [Ajude Aparecido](EDA1/lista_02/A1.c) - [pdf](EDA1/lista_01/A1.pdf)
+- [Ajude Aparecido](EDA1/lista_02/A.c) - [pdf](EDA1/lista_02/A.pdf)
+- [Ajude Aparecido](EDA1/lista_02/A1.c) - [pdf](EDA1/lista_02/A1.pdf)
 - [Analisando Dados de Degustação](EDA1/lista_10/G.c) - [pdf](EDA1/lista_10/G.pdf)
 - [Ansiedade](EDA1/lista_01/D2.c) - [pdf](EDA1/lista_01/D2.pdf)
 - [BOLHA](EDA1/lista_09/A.c) - [pdf](EDA1/lista_09/A.pdf)
@@ -22,7 +22,7 @@ Material de estudo indicado: [Apostila de Estrutura de Dados e Algoritmos](https
 - [Cofrinhos da Vó Vitória](EDA1/lista_01/C1.c) - [pdf](EDA1/lista_01/C1.pdf)
 - [Cursor do editor de texto](EDA1/lista_01/M2.c) - [pdf](EDA1/lista_01/M2.pdf)
 - [Desfazer no Editor](EDA1/trabalho/04pontos.c) - [pdf](EDA1/trabalho/04pontos.pdf)
-- [Eleição U.R.S.A.L](EDA1/lista_11/C.c) - [pdf](EDA1/lista_01/C.pdf)
+- [Eleição U.R.S.A.L](EDA1/lista_11/C.c) - [pdf](EDA1/lista_11/C.pdf)
 - [EOF](EDA1/lista_01/D.c) - [pdf](EDA1/lista_01/D.pdf)
 - [ET](EDA1/lista_01/D1.c) - [pdf](EDA1/lista_01/D1.pdf)
 - [Expressões](EDA1/lista_12/D.c) - [pdf](EDA1/lista_12/D.pdf)
