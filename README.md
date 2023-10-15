@@ -1,6 +1,8 @@
 # EDA - moj
 
-Material destinado à resolução das questões de EDA (Estrutura de Dados I e II) no CDMOJ. Existem mesmas questões com resoluções diferentes.
+Material destinado à resolução das questões de EDA (Estrutura de Dados e Algoritmos I e II) no CDMOJ. Existem mesmas questões com resoluções diferentes.
+
+Material de estudo indicado: [Apostila de Estrutura de Dados e Algoritmos](https://www.brunoribas.com.br/apostila-eda/) produzida pelo Prof. Dr. [Bruno Cesar Ribas](https://github.com/bcribas).
 
 **NOTA**: lembre-se este material tem intuito educativo, todas as questões apresentadas nesse repositório já foram submetidas ao CDMOJ, portanto caso as submetas novamente estará correndo risco de ter seu contest anulado por plágio.
 
