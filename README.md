@@ -22,7 +22,7 @@ Material de estudo indicado: [Apostila de Estrutura de Dados e Algoritmos](https
 - [Cofrinhos da Vó Vitória](EDA1/lista_01/C1.c) - [pdf](EDA1/lista_01/C1.pdf)
 - [Cursor do editor de texto](EDA1/lista_01/M2.c) - [pdf](EDA1/lista_01/M2.pdf)
 - [Desfazer no Editor](EDA1/trabalho/04pontos.c) - [pdf](EDA1/trabalho/04pontos.pdf)
-- Desfile dos Patos - [pdf](moj/desfile_dos_patos.pdf)
+- [Desfile dos Patos](moj/desfile_dos_patos.c) - [pdf](moj/desfile_dos_patos.pdf)
 - Diga-me a frequência - [pdf](moj/diga-me_a_frequencia.pdf)
 - [Eleição U.R.S.A.L](EDA1/lista_11/C.c) - [pdf](EDA1/lista_11/C.pdf)
 - [EOF](EDA1/lista_01/D.c) - [pdf](EDA1/lista_01/D.pdf)
