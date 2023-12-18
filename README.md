@@ -58,6 +58,7 @@ Material de estudo indicado: [Apostila de Estrutura de Dados e Algoritmos](https
 - [Mergesort](EDA1/lista_10/C.c) - [pdf](EDA1/lista_10/C.pdf)
 - [Mesclar listas encadeadas](EDA2/formativa_01/E.c) - [pdf](EDA2/formativa_01/E.pdf)
 - Micromouse - [pdf](EDA2/trabalho/micromouse.pdf)
+- Micromouse 2 - [pdf](moj/micromouse-2.pdf)
 - [Move os Xs](EDA1/lista_03/B.c) - [pdf](EDA1/lista_03/B.pdf)
 - Natureza - [pdf](moj/natureza.pdf)
 - [Notas Curiosas](EDA2/formativa_02/A.c) - [pdf](EDA2/formativa_02/A.pdf)
