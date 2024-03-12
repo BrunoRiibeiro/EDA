@@ -2,7 +2,7 @@
 
 void insertionsort(Item *v, int l, int r) {
 	for (int i = r; i > l; i--)
-		cmpexch(v[i-1], v[1]);
+		cmpexch(v[i-1], v[i]);
 	for (int i = l+2; i <= r; i++) {
 		int j; Item hand = v[j];
 		while (less(hand, v[j-1]))
